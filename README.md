@@ -1,4 +1,4 @@
-# DSA-IMP-Questions-
+# DSA-IMP-
 
 1. Maximum Subarray (Kadane's Algorithm)
 2. Binary Search
